@@ -8,9 +8,8 @@
 </a>
 
 ---
-📊
-   
-   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=UtkarshPrajapati&show_icons=true)
+📊 Profile Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=UtkarshPrajapati&show_icons=true)
 
 ---
 
