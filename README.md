@@ -32,7 +32,7 @@
 ### Contact Me:
 
 <p align="left">
-	<a href="https://www.linkedin.com/in/utkarsh-prajapati-175a2319a/"><img alt="linkedin" width="10%" style="padding:5px" src="https://w7.pngwing.com/pngs/511/605/png-transparent-in-logo-linkedin-diduco-ab-icon-linkedin-blue-angle-text.png"/></a>
+	<a href="https://www.linkedin.com/in/utkarsh-prajapati-175a2319a/"><img alt="linkedin" width="10%" style="padding:5px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG14.png"/></a>
 
  
 </p>
