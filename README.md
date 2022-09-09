@@ -12,3 +12,11 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UtkarshPrajapati&theme=nord_dark)
 
 ---
+  
+  📊 
+  
+   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ratnesh-maurya&show_icons=true)
+ 
+  
+  
+  ---
