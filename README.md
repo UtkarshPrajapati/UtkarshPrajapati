@@ -1,4 +1,4 @@
-# Hi there, I'm Utkarsh Prajapati 👋
+# Hi there, I'm Utkarsh Prajapati👋
 - I'm  a **Data Science Enthusiast** | **ML Developer** 
 - ML/AI Coordinator @ Google DSC Dr. AITH
 ---
