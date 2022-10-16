@@ -17,17 +17,20 @@
 ---
 
 ### 👨‍💻 Top Languages Used:
-  <p align="center">
+
+<p align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UtkarshPrajapati&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UtkarshPrajapati&theme=nord_dark)
-  </p>
+</p>
+  
 ---
 
   ### 📈 GitHub Activity Graph:
-  <p align="center">
+  
+<p align="center">
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=UtkarshPrajapati&theme=radical&ring=DD2727&fire=DD2727&dates=DD6227&sideNums=176FC5&sideLabels=1E90FF" alt="AUtkarshPrajapati" /><br><br>
 <img src = "https://lostgirljourney-on-github.herokuapp.com/graph?username=UtkarshPrajapati&theme=dracula&bg_color=000000&hide_border=true" alt="UtkarshPrajapati Activity" /><br><br>
-  </p>
+</p>
   
  ---
   
