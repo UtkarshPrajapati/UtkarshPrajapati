@@ -17,9 +17,10 @@
 ---
 
 ### 👨‍💻 Top Languages Used:
+  <p align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UtkarshPrajapati&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UtkarshPrajapati&theme=nord_dark)
-
+  </p>
 ---
 
   ### 📈 GitHub Activity Graph:
