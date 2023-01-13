@@ -18,9 +18,8 @@
 
 ### 👨‍💻 Top Languages Used:
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshPrajapati&layout=compact)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UtkarshPrajapati&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UtkarshPrajapati&theme=nord_dark)
 
   
 ---
