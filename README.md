@@ -10,7 +10,7 @@
 ### 🏆 GitHub Profile Trophy:
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=UtkarshPrajapati&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=UtkarshPrajapati&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
 
 ---
@@ -41,8 +41,7 @@
 ### Contact Me:
 
 <p align="left">
-	<a href="https://www.linkedin.com/in/utkarsh-prajapati-175a2319a/"><img alt="linkedin" width="10%" style="padding:5px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG14.png"/></a>
-
+<a href="https://www.linkedin.com/in/utkarsh-prajapati-175a2319a/"><img alt="linkedin" width="10%" style="padding:5px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG14.png"/></a>
 </p>
 
 ---
