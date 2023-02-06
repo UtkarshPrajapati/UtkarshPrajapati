@@ -18,14 +18,14 @@
 ### 📊 Profile Stats:
 
 <p align="center">
-<img src = "https://github-readme-stats.vercel.app/api?username=UtkarshPrajapati&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="UtkarshPrajapati" /><br><br></p>
+<img src = "https://readme-stats-hazel-two.vercel.app/api?username=UtkarshPrajapati&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="UtkarshPrajapati" /><br><br></p>
 
 ---
 
 ### 👨‍💻 Top Languages Used:
 
 <p align="center">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshPrajapati&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="UtkarshPrajapati" /><br><br></p>
+<img src = "https://readme-stats-hazel-two.vercel.app/api/top-langs/?username=UtkarshPrajapati&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="UtkarshPrajapati" /><br><br></p>
 
 ---
 
