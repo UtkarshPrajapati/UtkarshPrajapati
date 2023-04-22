@@ -1,9 +1,10 @@
 # Hi there, I'm Utkarsh Prajapati👋
 
-- I'm a **Data Science Enthusiast** | **ML Developer**
+- I'm a **Data Science Enthusiast** | **ML Developer** with experience in Python
 - ML/AI Coordinator @ Google DSC Dr. AITH
-- Postman Student Expert
+- Postman Student Expert with experience in API development and testing.
 - Interned at PlanTech Inc.
+- Check out my [LinkTree](https://linktr.ee/ut_op) for more information about my projects and experience.
 
 ---
 
@@ -43,7 +44,8 @@
 ### Contact Me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/utkarsh-prajapati-175a2319a/"><img alt="linkedin" width="10%" style="padding:5px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG14.png"/></a>
+<a href="https://www.linkedin.com/in/utkarsh-prajapati-175a2319a/"><img alt="linkedin" height="50px" style="padding:5px; vertical-align: middle;" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG14.png"/></a>
+<a href="https://linktr.ee/ut_op"><img alt="linktree" height="50px" style="padding-bottom:5px; vertical-align: middle;" src="https://ph-files.imgix.net/0184521c-c83a-4810-92e7-e27474c3e738?auto=format&fit=crop&h=512&w=1024"/></a>
 </p>
 
 ---
