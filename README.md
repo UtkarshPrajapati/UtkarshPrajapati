@@ -32,6 +32,11 @@
 
 ---
 
+### 📈 Coding Profile:
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/utkarshprap?theme=dark&font=Poppins%20Infant&ext=heatmap">
+</p>
+
 ### 📈 GitHub Activity Graph:
 
 <p align="center">
