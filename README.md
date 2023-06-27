@@ -13,7 +13,7 @@
 
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=UtkarshPrajapati&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=UtkarshPrajapati&column=8&theme=darkhub&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET"/>
 </a><br><br></p>
 
 ---
