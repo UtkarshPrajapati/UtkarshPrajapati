@@ -34,7 +34,9 @@
 
 ### 📈 Coding Profile:
 <p align="center">
+<a href="https://leetcode.com/utkarshprap/">
 <img src="https://leetcard.jacoblin.cool/utkarshprap?theme=dark&font=Poppins%20Infant&ext=heatmap">
+</a>
 </p>
 
 ---
