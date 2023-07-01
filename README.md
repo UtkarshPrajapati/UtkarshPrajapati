@@ -2,6 +2,7 @@
 
 - I'm a **Data Science Enthusiast** | **ML Developer** with experience in Python
 - ML/AI Coordinator @ Google DSC Dr. AITH
+- Kaggle Expert
 - Postman Student Expert with experience in API development and testing.
 - Interned at PlanTech Inc.
 - Check out my [LinkTree](https://linktr.ee/ut_op) for more information about my projects and experience.
