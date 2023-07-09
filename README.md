@@ -9,6 +9,26 @@
 
 ---
 
+### 📊 Kaggle Ranking:
+
+<p align="center">
+  <a target="_blank" href="https://kaggle.com/utisop/" rel="noopener noreferrer">
+    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/utisop/notebook">
+  </a>
+</p>
+
+
+---
+
+### 📈 Coding Profile:
+<p align="center">
+  <a target="_blank" href="https://leetcode.com/utkarshprap/" rel="noopener noreferrer">
+    <img src="https://leetcard.jacoblin.cool/utkarshprap?theme=dark&font=Poppins%20Infant&ext=heatmap">
+  </a>
+</p>
+
+---
+
 ### 🏆 GitHub Profile Trophy:
 
 <p align="center">
@@ -33,14 +53,6 @@
   <img src = "https://readme-stats-hazel-two.vercel.app/api/top-langs/?username=UtkarshPrajapati&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="UtkarshPrajapati" />
 </p>
 
----
-
-### 📈 Coding Profile:
-<p align="center">
-  <a target="_blank" href="https://leetcode.com/utkarshprap/" rel="noopener noreferrer">
-    <img src="https://leetcard.jacoblin.cool/utkarshprap?theme=dark&font=Poppins%20Infant&ext=heatmap">
-  </a>
-</p>
 
 ---
 
