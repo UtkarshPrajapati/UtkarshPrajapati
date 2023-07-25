@@ -9,7 +9,7 @@
 
 ---
 
-### 📊 Kaggle Ranking:
+### 📊 Kaggle WorldWide Ranking:
 
 <p align="center">
   <a target="_blank" href="https://kaggle.com/utisop/" rel="noopener noreferrer">
