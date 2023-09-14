@@ -1,6 +1,7 @@
 # Hi there, I'm Utkarsh Prajapati👋
 
 - I'm a **Data Science Enthusiast** | **ML Developer** with experience in Python
+- Microsoft AI 900 Exam Certified
 - ML/AI Coordinator @ Google DSC Dr. AITH
 - Kaggle Expert
 - Postman Student Expert with experience in API development and testing.
