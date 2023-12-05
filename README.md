@@ -1,3 +1,5 @@
+[![Utkarsh's Holopin Badges](https://holopin.me/ut_op)](https://holopin.io/@ut_op)
+
 # Hi there, I'm Utkarsh Prajapati👋
 
 - I'm a **Data Science Enthusiast** | **ML Developer** with experience in Python
