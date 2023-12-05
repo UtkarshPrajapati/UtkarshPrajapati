@@ -47,6 +47,9 @@
 <p align="center">
   <img src = "https://readme-stats-hazel-two.vercel.app/api?username=UtkarshPrajapati&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="UtkarshPrajapati" />
 </p>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtkarshPrajapati&theme=monokai"/><br><br>
+</p>
 
 ---
 
