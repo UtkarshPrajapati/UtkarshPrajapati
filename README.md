@@ -1,3 +1,4 @@
+
 [![Utkarsh's Holopin Badges](https://holopin.me/ut_op)](https://holopin.io/@ut_op)
 
 # Hi there, I'm Utkarsh Prajapati👋
@@ -59,7 +60,7 @@
 ### 📈 Coding Profile:
 <p align="center">
   <a target="_blank" href="https://leetcode.com/utkarshprap/" rel="noopener noreferrer">
-    <img src="https://leetcard.jacoblin.cool/utkarshprap?theme=dark&font=Poppins%20Infant&ext=heatmap">
+    <img src="https://leetcard.jacoblin.cool/utkarshprap?theme=nord&font=Poppins%20Infant&ext=heatmap">
   </a>
 </p>
 
