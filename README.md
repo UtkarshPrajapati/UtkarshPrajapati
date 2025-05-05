@@ -44,8 +44,7 @@
 
 
 
----
-
+<!--
 ### 📊 Kaggle WorldWide Ranking:
 
 <p align="center">
@@ -53,6 +52,7 @@
     <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/utisop/notebook">
   </a>
 </p>
+-->
 
 
 ---
